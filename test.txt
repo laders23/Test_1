@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 laders23@naver.com
-=======
 laders23@gmail.com
 `
->>>>>>> b9d538778bda7974457028084aeadd73ff3bd5fd
